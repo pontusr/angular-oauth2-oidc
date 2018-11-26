@@ -216,6 +216,8 @@ export class AuthConfig {
    */
   public useHttpBasicAuthForPasswordFlow? = false;
 
+  public disableNonceCheck? = false;
+
   constructor(json?: Partial<AuthConfig>) {
     if (json) {
       Object.assign(this, json);
