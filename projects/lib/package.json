@@ -1,8 +1,8 @@
 {
-  "name": "angular-oauth2-oidc",
+  "name": "angular-oauth2-oidc-codeflow",
   "license": "MIT",
   "author": {
-    "name": "Manfred Steyer"
+    "name": "Peer Bech Hansen"
   },
   "version": "5.0.2",
   "repository": "manfredsteyer/angular-oauth2-oidc",
