@@ -1,4 +1,4 @@
-{
+
   "name": "angular-oauth2-oidc-codeflow",
   "version": "0.0.1",
   "license": "MIT",
@@ -17,7 +17,7 @@
     "format": "prettier --single-quote --write projects/**/*.ts",
     "copy:readme": "cpr README.md dist/lib/README.md --overwrite"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "7.0.0",
     "@angular/common": "7.0.0",
